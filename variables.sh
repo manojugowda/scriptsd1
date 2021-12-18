@@ -1,5 +1,5 @@
 #!/bin/bash
-#line added
+#line added 1
 name="raj"
 company="HP"
 echo "My name is $name"
